@@ -8,3 +8,5 @@ Data Structures & Algorithms in Java
 3. Binary Search Tree: Insertion and Deletion of nodes (BSTInsertDelete)
 4. Depth First Search Iterative (DFSIterative.java)
 5. Depth First Search Recursive (DFSRecursion.java)
+6. Knuth-Morris-Pratt String Search (KMP.java)
+7. Merge Sort (MergeSort.java)
