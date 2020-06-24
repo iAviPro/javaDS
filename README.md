@@ -12,3 +12,4 @@ Information about the algorithm & paradigm to solve it in code comments along wi
 5. Depth First Search Recursive (DFSRecursion.java)
 6. Knuth-Morris-Pratt String Search (KMP.java)
 7. Merge Sort (MergeSort.java)
+8. Minimum Edit Distance (MinEditDist.java)
