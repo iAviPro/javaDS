@@ -6,9 +6,9 @@
  * the recursion backtracks to the starting vertex to traverse its other connected-components(in its width).
  **/
 
-/*
-@Author: Aviral Nigam
-*/
+/**
+ * @author: Aviral Nigam
+ */
 import java.util.*;
 
 public class DFSRecursion

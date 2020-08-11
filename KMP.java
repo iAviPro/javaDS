@@ -3,9 +3,10 @@
  size of suffix same as prefix (common pattern within the pattern) and then based on the output array (temporary) pattern
  matches the pattern to the given text.
 * Runtime complexity - O(m + n) where m is length of text and n is length of pattern
-* Space complexity - O(n). **/
-/*
-@Author: Aviral Nigam
+* Space complexity - O(n). 
+*/
+/** 
+* @author: Aviral Nigam
 */
 import java.util.Scanner;
 public class KMP

@@ -6,9 +6,9 @@
  * 2. Condition check if the key is found in either left or right of the tree.
  * 3. If found in any side print the data value of every node while traversing to that node.
  */
-/*
-@Author: Aviral Nigam
-*/
+/**
+ * @author: Aviral Nigam
+ */
 
 class PrintAncestorNodesBT {
 

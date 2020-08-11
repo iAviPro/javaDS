@@ -1,7 +1,3 @@
-/*
-@Author: Aviral Nigam
- */
-
 /* *****************General Merge Sort Implementation****************** */
 
 /* Merge sort algorithm divides the Input Array into two halves.
@@ -9,6 +5,10 @@
 * It uses an auxillary array (a temporary array) to sort.
 * Space Complexity: O(N)
 * Time Complexity: O(N logN) compares with max. (6N logN) array accesses */
+
+/**
+ * @author: Aviral Nigam
+*/
 
 import java.util.Scanner;
 

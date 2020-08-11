@@ -8,8 +8,8 @@
  * 2. Put the vertex which are completely explored into a stack.
  * 3. Finally, Pop from stack to get sorted order.
  */
-/*
-@Author: Aviral Nigam
+/**
+ * @author: Aviral Nigam
 */
 
 import java.util.Stack;

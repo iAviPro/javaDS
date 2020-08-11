@@ -6,9 +6,9 @@
   We take the minimum of a[i-1][j],a[i][j-1],a[i-1][j-1] at each level to compute final value which is at the
   upper-right most corner of teh computed 2-D array**/
 
-  /*
-  @Author: Aviral Nigam
-  */
+/**
+ * @author: Aviral Nigam
+*/
 
 
 import java.util.Scanner;
