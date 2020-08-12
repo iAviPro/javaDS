@@ -1,3 +1,4 @@
+package sorts;
 /* *****************General Merge Sort Implementation****************** */
 
 /* Merge sort algorithm divides the Input Array into two halves.

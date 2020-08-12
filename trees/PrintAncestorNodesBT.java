@@ -1,4 +1,4 @@
-
+package trees;
 /* Binary Tree: Print ancestors of a given node of binary tree (Recursive solution)
  * Time complexity(Worst case) -  O(n) {n-no. of nodes}
  * Algo:

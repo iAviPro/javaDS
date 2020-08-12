@@ -1,3 +1,4 @@
+package dynamic;
 /**Finding Minimum Edit distance - the minimum edits required to change from one given string to another
  * Edits= Deletion, Insertion and Replacement.
  * e.g. String 1 = "INTENTION" & String 2 = "EXECUTION", then the minimum edits requed = 5

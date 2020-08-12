@@ -1,3 +1,4 @@
+package trees;
 /* Binary Search Tree: Insertion and Deletion of nodes
  * Time complexity (worst case) : O(h) {h=height of the tree}. If tree is skewed its O(n) {n-no. of nodes}
  */

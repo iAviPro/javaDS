@@ -1,3 +1,4 @@
+package graphs;
 /* Graph traversal: BFS traversal using queue (iterative).
  * Time Complexity(Worst Case): O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
  * In this algorithm, we traverse each node and enqueue all the adjecent nodes in a queue; continue this process till queue becomes null. 

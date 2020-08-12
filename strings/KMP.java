@@ -1,3 +1,5 @@
+package strings;
+
 /** KMP Algorithm : KMP(Knuth Morris Pratt) is an algorithm for substring pattern matching.
 * The algorithm first preprocesses the pattern to identify 
  size of suffix same as prefix (common pattern within the pattern) and then based on the output array (temporary) pattern

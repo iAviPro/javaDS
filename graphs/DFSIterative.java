@@ -1,3 +1,5 @@
+package graphs;
+
 /* Depth First Search (DFS) program using Stack and iterative technique
 */
 

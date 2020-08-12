@@ -1,3 +1,5 @@
+package graphs;
+
 /** Graph Traversal: Depth First Search (DFS) on a graph using recursion 
  * The diffrence between DFS on a tree and a graph is that in graph there is a possibility of cycle 
  * hence we maintain a boolean array called visited[], which maintains all previously visited vertex.

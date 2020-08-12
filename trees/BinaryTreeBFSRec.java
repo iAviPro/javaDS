@@ -1,3 +1,5 @@
+package trees;
+
 /* Binary Tree Traversal: Level-Order-Traversal using recursion.
  * Time Complexity: O(n^2) in worst case, when using recursion.
  * if using qeueues for level-order, then time complexity is O(n)

@@ -1,4 +1,4 @@
-
+package graphs;
 /** 
  * Generic Graph implementation.
  * Adjacency List based directional / bidirectional graph implementation using Java Generics

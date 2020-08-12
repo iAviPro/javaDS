@@ -1,4 +1,8 @@
+package graphs;
 
+/**
+ * Edge Weighted Graph Implementation
+ */
 /**
  * @author: Aviral Nigam
  */
