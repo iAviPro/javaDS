@@ -16,3 +16,5 @@ Information about the algorithm & paradigm to solve it in code comments along wi
 9. Topological Sort (TopologicalSort.java)
 10. Print Ancestor Node in Binary Tree (PrintAncestorNodesBT.java)
 11. Generic Graph Implementation (Graph.java)
+12. Reverse Single LinkedList (ReverseLinkedList.java)
+13. Reverse Double LinkedList (ReverseDoubleLinkedList.java)

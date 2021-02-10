@@ -26,7 +26,9 @@
  * 3. Link rest of the nodes to the first node
  * 4. Fix the head pointer
  */
-
+/**
+ * @author: Aviral Nigam
+ */
 package linkedlists;
 import java.util.*;
 public class ReverseLinkedList {

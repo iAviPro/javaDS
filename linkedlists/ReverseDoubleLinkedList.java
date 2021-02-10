@@ -10,7 +10,9 @@
  * 7. Once all the nodes are traversed and current == null then, head = previous.prev;
  */
 
-
+/**
+ * @author: Aviral Nigam
+ */
 package linkedlists;
 
 import java.io.BufferedWriter;
