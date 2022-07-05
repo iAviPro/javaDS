@@ -19,8 +19,13 @@ import java.util.stream.Stream;
  * 1. build a heap from the given array by inserting each element in the heap DS
  * 2. Swap each element from the top / root of the heap and put it in the last of the array
  * 3. Re-heapify / balance the complete BT to be a heap.
- * 
+ * 4. Print the array after heap sorting.
  */
+
+ /**
+  * @author: Aviral Nigam
+  */
+  
 public class HeapSort {
 
     // create heap of a given array
